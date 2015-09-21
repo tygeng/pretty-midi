@@ -5,6 +5,16 @@
 __pycache__/
 *.py[cod]
 
+# IPython
+*.ipynb
+.ipynb*
+
+# Jet-brain
+*.iml
+.idea/
+/out/
+atlassian-ide-plugin.xml
+
 # C extensions
 *.so
 
